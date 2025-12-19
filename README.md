@@ -1,2 +1,2 @@
 # root-me
-write-up for the challenge
+challenge write-up
